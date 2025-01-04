@@ -1,0 +1,35 @@
+Hello Nishikant!!!
+take input from user
+add the values
+
+submit the data to database
+
+git diff --> when you want to see what changes you done
+
+git diff --staged --> when you want to see what changes you done when you file in staged area 
+
+for deleting the file that i pushed in git 
+-> git rm --cached creds.txt
+
+to add all the file in staging area ones
+git add .
+
+tagging
+git tag -a v1.0 -m "1st release"
+
+for creating a branch
+git checkout -b name
+git switch -c name // both are working
+
+for switching one branch to other
+git switch branchname
+
+// for the switching the prevous branch
+git switch -
+
+
+// for deleting the branch
+git branch -d branchname
+
+// for viewing the branch
+git branch
